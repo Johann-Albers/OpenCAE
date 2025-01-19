@@ -4,7 +4,12 @@
 
 # OpenCAE
 
-OpenCAE is a library written in C and Fortran, with a port to Python. It provides a framework for building simulation models in Python, optionally incorporating machine learning capabilities using PyTorch. OpenCAE is designed to offer a complete workflow, from geometry creation to mesh generation, simulation, and optimization. Since this library is at an early stage of development, there will be breaking changes.
+OpenCAE is a library written in C and Fortran, with a port to Python. 
+It provides a framework for building simulation models in Python,
+optionally incorporating machine learning capabilities using PyTorch.
+OpenCAE is designed to offer a complete workflow, from geometry creation
+to mesh generation, simulation, and optimization. Since this library is
+at an early stage of development, there will be breaking changes.
 
 OpenCAE can be found at https://opencae.net
 
@@ -12,22 +17,32 @@ Report bugs and issues at https://github.com/Johann-Albers/opencae/issues
 
 License: GPLv2
 
-You can get the sources to the latest development version from the git repository:
+You can get the sources to the latest development version from the
+git repository:
 
 ```
 git clone https://github.com/Johann-Albers/opencae.git
 ```
 
-Detailed build instructions can be found in the INSTALL file.
+Detailed build instructions can be found inthe [INSTALL.md](/INSTALL.md)
+file.
 
 ## Contributing
 
-If you want to contribute code, please open a pull request with signed-off commits at https://github.com/Johann-Albers/opencae/pulls.
-If you don't sign off your patches, they will not be accepted. This means adding a line that says "Signed-off-by: Name <email>" at the end of each commit, indicating that you wrote the code and have the right to pass it on as an open source patch under the GPLv2 license.
+If you want to contribute code, please open a pull request with signed-off
+commits at https://github.com/Johann-Albers/opencae/pulls.
+If you don't sign off your patches, they will not be accepted. 
+This means adding a line that says "Signed-off-by: Name <email>" at the
+end of each commit, indicating that you wrote the code and have the right
+to pass it on as an open source patch under the GPLv2 license.
 
-The code you commit should be in a reasonable format. If you need ideas, consider reviewing the existing codebase or searching the web for coding guidelines similar to those used in the Linux project. This includes structuring, commenting, documenting, testing, etc. etc.
+The code you commit should be in a reasonable format. If you need ideas,
+consider reviewing the existing codebase or searching the web for coding
+guidelines similar to those used in the Linux project. This includes
+structuring, commenting, documenting, testing, etc. etc.
 
-Also, please write good commit messages. A good commit message looks like this:
+Also, please write good commit messages. A good commit message looks
+like this:
 
 ```
 Header line: explain the commit in one line (use the imperative)
