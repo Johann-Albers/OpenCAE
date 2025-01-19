@@ -1,4 +1,4 @@
-![OpenCAE logo](logo.png)
+![OpenCAE logo](opencae.png)
 
 ---
 
