@@ -24,7 +24,7 @@ git repository:
 git clone https://github.com/Johann-Albers/opencae.git
 ```
 
-Detailed build instructions can be found inthe [INSTALL.md](/INSTALL.md)
+Detailed build instructions can be found in the [INSTALL.md](/INSTALL.md)
 file.
 
 ## Contributing
