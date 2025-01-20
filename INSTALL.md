@@ -16,7 +16,7 @@ cd opencae
 You keep it updated by using:
 
 ```
-git checkout master
+git checkout main
 git pull -r
 ```
 
