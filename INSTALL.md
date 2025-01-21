@@ -9,7 +9,7 @@ You can get the sources to the latest development version from our git
 repository:
 
 ```
-git clone http://github.com/Johann-Albers/opencae.git
+git clone http://github.com/albers3/opencae.git
 cd opencae
 ```
 
