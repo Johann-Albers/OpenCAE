@@ -13,7 +13,7 @@ at an early stage of development, there will be breaking changes.
 
 OpenCAE can be found at https://opencae.net
 
-Report bugs and issues at https://github.com/Johann-Albers/opencae/issues
+Report bugs and issues at https://github.com/albers3/opencae/issues
 
 License: GPLv2
 
@@ -21,7 +21,7 @@ You can get the sources to the latest development version from the
 git repository:
 
 ```
-git clone https://github.com/Johann-Albers/opencae.git
+git clone https://github.com/albers3/opencae.git
 ```
 
 Detailed build instructions can be found in the [INSTALL.md](/INSTALL.md)
@@ -30,7 +30,7 @@ file.
 ## Contributing
 
 If you want to contribute code, please open a pull request with signed-off
-commits at https://github.com/Johann-Albers/opencae/pulls.
+commits at https://github.com/albers3/opencae/pulls.
 If you don't sign off your patches, they will not be accepted. 
 This means adding a line that says "Signed-off-by: Name <email>" at the
 end of each commit, indicating that you wrote the code and have the right
